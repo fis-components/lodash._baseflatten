@@ -1,7 +1,7 @@
 {
     "name": "lodash._baseflatten",
     "description": "The modern build of lodash’s internal `baseFlatten` as a module.",
-    "repos": "https://github.com/lodash/lodash",
+    "repos": "https://github.com/lodash/lodash.git",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
@@ -9,5 +9,5 @@
         "lodash.isarray": "^3.0.0"
     },
     "main": "index.js",
-    "version": "3.1.2"
+    "version": "3.1.3"
 }
